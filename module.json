@@ -19,7 +19,7 @@
   },
   "targetDependencies": {
     "stm32l476rg": {
-      "cmsis-core-st-stm32l476rg": "carmelomigliore/cmsis-core-stm32l476rg"
+      "cmsis-core-stm32l476rg": "carmelomigliore/cmsis-core-stm32l476rg"
     }
   }
 }
