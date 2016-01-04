@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "description": "CMSIS Core module for STM32L4xx microcontrollers",
   "keywords": [],
-  "author": "Carmelo Miglliore <car.miglio@gmail.com>",
-  "homepage": "https://github.com/ARMmbed/cmsis-core-stm32f4-private",
+  "author": "Carmelo Migliore <car.miglio@gmail.com>",
   "licenses": [
     {
       "url": "https://spdx.org/licenses/BSD-3-Clause",
@@ -16,11 +15,11 @@
   ],
   "dependencies": {
     "cmsis-core": "*",
-    "mbed-hal-st-stm32l4": "~0.0.0"
+    "mbed-hal-st-stm32l4": "carmelomigliore/mbed-hal-st-stm32l4"
   },
   "targetDependencies": {
     "stm32l476rg": {
-      "cmsis-core-st-stm32l476rg": "~0.0.0"
+      "cmsis-core-st-stm32l476rg": "carmelomigliore/cmsis-core-st-stm32l476rg"
     }
   }
 }
