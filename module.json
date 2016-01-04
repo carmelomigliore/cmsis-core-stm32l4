@@ -14,7 +14,7 @@
     "cmsis-core-stm32l4"
   ],
   "dependencies": {
-    "cmsis-core": "*",
+    "cmsis-core": "carmelomigliore/cmsis-core",
     "mbed-hal-st-stm32l4": "carmelomigliore/mbed-hal-st-stm32l4"
   },
   "targetDependencies": {
